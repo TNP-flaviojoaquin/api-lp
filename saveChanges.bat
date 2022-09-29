@@ -7,4 +7,4 @@ git add --all
 git commit -m "your_commit_message"
 git push origin master
 
-exit
+pause
