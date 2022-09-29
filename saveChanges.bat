@@ -7,4 +7,5 @@ git add --all
 git commit -m "your_commit_message"
 git push origin master
 
-pause
+TIMEOUT /T 300
+start https://my-json-server.typicode.com/TNP-flaviojoaquin/api-lp/users
