@@ -44,6 +44,11 @@
       "id": 9,
       "name": "Helard",
       "age": 32
+    },
+    {
+      "id": 10,
+      "name": "Rooney",
+      "age": 27
     }
   ],
   "endpoints": [
